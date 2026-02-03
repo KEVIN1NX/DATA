@@ -1,1 +1,1 @@
-OFF
+bugsnag-api-key: 1579cf0cb4e61b2a29ff94dbcb89605e//;
